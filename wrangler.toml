@@ -1,6 +1,6 @@
 name = "vmail"
 main = "worker/src/index.ts"
-   
+     
 # 打包配置
 minify = true
 compatibility_flags = [ "nodejs_compat" ]
